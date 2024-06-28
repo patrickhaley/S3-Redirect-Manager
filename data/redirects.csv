@@ -1,0 +1,3 @@
+﻿Old Path,New path,Protocol,Status Code
+old-path-1,new-path-1,https,301
+old-path-2,new-path-2,https,301
